@@ -207,4 +207,4 @@ This repository serves as the official landing page for EXIF Purge. The software
 **Get the most recent version of EXIF Purge today!**
 
 ---
-**Last updated:** 2026-11-09 01:34:24 UTC
+**Last updated:** 2026-11-09 09:32:09 UTC
